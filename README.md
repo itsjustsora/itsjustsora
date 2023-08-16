@@ -10,5 +10,4 @@
 <br>
 
 
-<a href="https://github.com/itsjustsora"><img style="height:170px" src="https://github-readme-stats.vercel.app/api?username=itsjustsora&show_icons=true&include_all_commits=true&theme=monokai&hide_border=true" alt="SORA's github stats" /></a>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=keems)](https://solved.ac/keems/)
