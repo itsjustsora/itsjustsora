@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=header&text=It's%20sora!&fontSize=90)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/itsjustsora?pet-id=1" width="1000" height="120"/>
+</a>
+
 <div align=center><h3>☁️ social info ☁️</h3>
   <a href="https://justsora.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
   <a href="mailto:itsyoursora@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
