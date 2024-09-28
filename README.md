@@ -1,8 +1,9 @@
 <h3>👩🏻 Hello, I'm 。。</h3>
-
-- Sora Kim, working as a back-end developer.  
-- approaching development every day with the mindset of wanting to grow 1% daily.
-- striving to create a better world through programming.
+<ul>
+  <li>Sora Kim, working as a back-end developer.</li> 
+  <li>approaching development every day with the mindset of wanting to grow 1% daily.</li>
+  <li>striving to create a better world through programming.</li>
+</ul>
 
 <div>
   <a href="https://justsora.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
