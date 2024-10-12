@@ -20,11 +20,11 @@
 <br>
 <h3>🐾 Recently written blog post</h3>
 <div id="recent-posts">
- <a href="https://justsora.tistory.com/173">[Spring] Custom Filter로 로그 파밍하기 (CloudWatch X Logback)</a>
+ <a href="https://justsora.tistory.com/174">[서적] 그림으로 이해하는 서버 구조와 기술 | 요코타 카즈키, 엔도 유키</a>
+ <br><a href="https://justsora.tistory.com/173">[Spring] Custom Filter로 로그 파밍하기 (CloudWatch X Logback)</a>
  <br><a href="https://justsora.tistory.com/172">INFCON 2024</a>
  <br><a href="https://justsora.tistory.com/171">[Network] 네트워크 확인을 위한 명령어(1) - ping</a>
  <br><a href="https://justsora.tistory.com/170">[Network] ICMP</a>
  <br><a href="https://justsora.tistory.com/169">[서적] 이펙티브 엔지니어 | 에드먼드 라우</a>
- <br><a href="https://justsora.tistory.com/168">[jOOQ] jOOQ는 처음이라</a>
  <br>
 </div>
