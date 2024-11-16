@@ -22,11 +22,11 @@
 <br>
 <h3>🐾 Recently written blog post</h3>
 <div id="recent-posts">
- <a href="https://justsora.tistory.com/177">[서적] 그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 우에노 후미아키</a>
+ <a href="https://justsora.tistory.com/178">[Java] Enum이 철벽치는 방법</a>
+ <br><a href="https://justsora.tistory.com/177">[서적] 그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 우에노 후미아키</a>
  <br><a href="https://justsora.tistory.com/176">[PostgreSQL] Docker를 활용한 Streaming Replication 설정 가이드</a>
  <br><a href="https://justsora.tistory.com/175">[PostgreSQL] Chapter 26. High Availability, Load Balancing, and Replication</a>
  <br><a href="https://justsora.tistory.com/174">[서적] 그림으로 이해하는 서버 구조와 기술 | 요코타 카즈키, 엔도 유키</a>
  <br><a href="https://justsora.tistory.com/173">[Spring] Custom Filter로 로그 파밍하기 (CloudWatch X Logback)</a>
- <br><a href="https://justsora.tistory.com/172">INFCON 2024</a>
  <br>
 </div>
