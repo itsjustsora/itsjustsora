@@ -22,11 +22,11 @@
 <br>
 <h3>🐾 Recently written blog post</h3>
 <div id="recent-posts">
- <a href="https://justsora.tistory.com/180">테오의 스프린트 18기 후기</a>
+ <a href="https://justsora.tistory.com/181">[Spring] 빈은 순서를 가진다 - Error creating bean 문제 해결</a>
+ <br><a href="https://justsora.tistory.com/180">테오의 스프린트 18기 후기</a>
  <br><a href="https://justsora.tistory.com/179">[Git] 폐쇄망 환경에서 프로젝트 옮기기: Git bundle 활용법</a>
  <br><a href="https://justsora.tistory.com/178">[Java] Enum이 철벽치는 방법</a>
  <br><a href="https://justsora.tistory.com/177">[서적] 그림과 작동 원리로 쉽게 이해하는 AWS 구조와 서비스 | 우에노 후미아키</a>
  <br><a href="https://justsora.tistory.com/176">[PostgreSQL] Docker를 활용한 Streaming Replication 설정 가이드</a>
- <br><a href="https://justsora.tistory.com/175">[PostgreSQL] Chapter 26. High Availability, Load Balancing, and Replication</a>
  <br>
 </div>
