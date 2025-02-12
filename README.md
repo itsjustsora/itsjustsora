@@ -12,6 +12,7 @@
 <div>
  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&amp;logo=java&amp;logoColor=white"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white"> <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&amp;logo=php&amp;logoColor=white">
  <br><img src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&amp;logo=mariaDB&amp;logoColor=white"> <img src="https://img.shields.io/badge/jOOQ-black?style=for-the-badge"> <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&amp;logo=amazonaws&amp;logoColor=white">
+ <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
  <br>
 </div>
 <br>
