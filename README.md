@@ -22,7 +22,7 @@
 <br>
 <h3>🐾 Recently written blog post</h3>
 <div id="recent-posts">
- <br><a href="https://justsora.tistory.com/183">[CI/CD] Vite 프로젝트 배포 시 crypto.getRandomValues 에러 해결</a>
+ <a href="https://justsora.tistory.com/183">[CI/CD] Vite 프로젝트 배포 시 crypto.getRandomValues 에러 해결</a>
  <br><a href="https://justsora.tistory.com/182">[jOOQ] ad-hoc 방식을 통한 One-to-One, One-to-Many 조회</a>
  <br><a href="https://justsora.tistory.com/181">[Spring] 빈은 순서를 가진다 - Error creating bean 문제 해결</a>
  <br><a href="https://justsora.tistory.com/180">테오의 스프린트 18기 후기</a>
