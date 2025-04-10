@@ -1,6 +1,6 @@
 <h3>👩🏻 Hello, I'm 。。</h3>
 <ul>
- <li>Sora Kim, working as a back-end developer.</li>
+ <li>Sora Kim, working as a back-end software engineer.</li>
  <li>approaching development every day with the mindset of wanting to grow 1% daily.</li>
  <li>striving to create a better world through programming.</li>
 </ul>
