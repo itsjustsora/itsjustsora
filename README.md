@@ -15,11 +15,6 @@
  <br>
 </div>
 <br>
-<h3>⚡️ Currently interested in 。。</h3>
-<div>
- <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&amp;logo=junit5;logoColor=white"> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white"> <img src="https://img.shields.io/badge/jenkins-D24939?style=for-the-badge&amp;logo=jenkins&amp;logoColor=white">
-</div>
-<br>
 <h3>🐾 Recently written blog post</h3>
 <div id="recent-posts">
  <a href="https://justsora.tistory.com/189">[DDIA] 02장. 데이터 모델과 질의 언어</a>
