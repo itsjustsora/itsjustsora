@@ -24,3 +24,14 @@
  <br><a href="https://justsora.tistory.com/188">[글또] 10기 회고</a>
  <br>
 </div>
+<br>
+<h3>🌍 External Activities</h3>
+<div>
+<ul>
+ <li>월드프렌즈코리아(WFK) IT 봉사 프로그램 (2025.06 – 현재)</li>
+ <li>글또(IT Community) 10기 (2024.09 – 2025.04)</li>
+ <li>테오의 스프린트 18기 (2024.12 - 2025.02)</li>
+ <li>토스 Learner's high 서버 1기 (2024.12 - 2025.01)</li>
+ <li>글또(IT Community) 8기 (2023.01 – 2023.08)</li>
+</ul>
+</div>
