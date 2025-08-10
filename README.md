@@ -17,11 +17,11 @@
 <br>
 <h3>🐾 Recently written blog post</h3>
 <div id="recent-posts">
- <a href="https://justsora.tistory.com/192">[내 프로젝트 성능 진단기] #1. 처리량과 지연 시간, 응답 시간으로 병목 찾기</a>
+ <a href="https://justsora.tistory.com/193">[DDIA] 05장. 복제</a>
+ <br><a href="https://justsora.tistory.com/192">[내 프로젝트 성능 진단기] #1. 처리량과 지연 시간, 응답 시간으로 병목 찾기</a>
  <br><a href="https://justsora.tistory.com/191">[DDIA] 04장. 부호화와 발전</a>
  <br><a href="https://justsora.tistory.com/190">[DDIA] 03장. 저장소와 검색</a>
  <br><a href="https://justsora.tistory.com/189">[DDIA] 02장. 데이터 모델과 질의 언어</a>
- <br><a href="https://justsora.tistory.com/188">[글또] 10기 회고</a>
  <br>
 </div>
 <br>
